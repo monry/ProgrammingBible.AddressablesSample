@@ -708,7 +708,7 @@ GameObject:
   - component: {fileID: 1547624201}
   - component: {fileID: 1547624200}
   m_Layer: 5
-  m_Name: PlayCharacterVoice
+  m_Name: PlayCharacterSE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -844,13 +844,13 @@ MonoBehaviour:
   AudioSource: {fileID: 1547624201}
   PlayButton: {fileID: 1547624197}
   AudioClips:
-  - m_AssetGUID: 3aefd3d55bc5c407e9ca8b92e04b74f0
+  - m_AssetGUID: 802e3f9d7d0c147d89ac53940b0e0c3a
     m_SubObjectName: 
     m_SubObjectType: 
-  - m_AssetGUID: 0a289ed9b5ca74137acfe8898779f374
+  - m_AssetGUID: 602769c4df6be4c6c8d9ea95fc7ccd0a
     m_SubObjectName: 
     m_SubObjectType: 
-  - m_AssetGUID: 659a28fa576bc4378ab40a174d8d1a5b
+  - m_AssetGUID: 0450203a9333e43da9e17e1f2eecdcfa
     m_SubObjectName: 
     m_SubObjectType: 
 --- !u!82 &1547624201
