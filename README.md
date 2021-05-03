@@ -24,8 +24,3 @@
 - 読み込む画像です。
 - 画像は [いらすとや](https://www.irasutoya.com/) さんからお借りしました。
 
-## `Assets/Voices/*`
-
-- 読み込む音声です。
-- 音声は [効果音ラボ](https://soundeffect-lab.info/) さんからお借りしました。
-
