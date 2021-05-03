@@ -24,3 +24,7 @@
 - 読み込む画像です。
 - 画像は [いらすとや](https://www.irasutoya.com/) さんからお借りしました。
 
+## `Assets/Sounds/*`
+
+- 読み込む SE です。
+- 音声は [魔王魂](https://maou.audio/) さんからお借りしました。

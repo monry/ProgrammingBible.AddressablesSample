@@ -35,20 +35,20 @@ MonoBehaviour:
     m_SerializedLabels: []
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
-  - m_GUID: 3aefd3d55bc5c407e9ca8b92e04b74f0
-    m_Address: Assets/Voices/Character01.mp3
+  - m_GUID: 0450203a9333e43da9e17e1f2eecdcfa
+    m_Address: Assets/Sounds/Horse.mp3
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
-  - m_GUID: 0a289ed9b5ca74137acfe8898779f374
-    m_Address: Assets/Voices/Character02.mp3
+  - m_GUID: 602769c4df6be4c6c8d9ea95fc7ccd0a
+    m_Address: Assets/Sounds/Dog.mp3
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
-  - m_GUID: 659a28fa576bc4378ab40a174d8d1a5b
-    m_Address: Assets/Voices/Character03.mp3
+  - m_GUID: 802e3f9d7d0c147d89ac53940b0e0c3a
+    m_Address: Assets/Sounds/Bird.mp3
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 0}
